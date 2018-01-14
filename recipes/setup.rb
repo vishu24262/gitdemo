@@ -7,8 +7,6 @@ package 'tree' do
  action :install
 end
 
-package 'httpd' do
-end
 package 'git' do
 action :install
 end
